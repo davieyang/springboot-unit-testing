@@ -1,0 +1,2 @@
+# Springboottest-skill
+适用于openclaw/workbuddy等，专门用于对SpringBoot项目做单元测试的Skill
